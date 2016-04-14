@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"%s,%d",__FUNCTION__,__LINE__);</string>
+	<string>NSLog(@"%s,%d|&lt;#输入#&gt;",__FUNCTION__,__LINE__);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B6EFA143-1E30-4FDC-BCA8-AD959EA60A57</string>
 	<key>IDECodeSnippetLanguage</key>
